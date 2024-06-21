@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+pytorch/torchserve:0.11.0-gpu
