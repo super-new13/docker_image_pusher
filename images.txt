@@ -1,1 +1,2 @@
-nvidia/cuda:12.1.0-devel-ubuntu22.04
+node:20.10.0-alpine
+node:14.15.4-alpine
