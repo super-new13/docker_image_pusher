@@ -1,2 +1,1 @@
-node:20.10.0-alpine
-node:14.15.4-alpine
+ollama/ollama
