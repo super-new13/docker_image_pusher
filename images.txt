@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+nvidia/cuda:12.1.0-devel-ubuntu22.04
