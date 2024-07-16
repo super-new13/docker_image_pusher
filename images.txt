@@ -1,1 +1,1 @@
-searxng/searxng
+obeliks/comfyui:latest-cu121
