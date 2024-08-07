@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server
+python:3.10-slim
