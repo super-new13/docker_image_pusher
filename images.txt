@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.6.2
+breakstring/gpt-sovits:latest
