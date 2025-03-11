@@ -1,1 +1,1 @@
-jianjungki/mineru:latest	
+xprobe_xinference/xinference:latest
